@@ -1,18 +1,7 @@
-userModle : 
-    full name : string
-    email : string
-    password : string
-    cart : array
-    isadmin : boolean
-    orders : array
-    contact : number
-    picture : db
+Scatch : A simple E-commerce web application, it's a bag shopping app for both venders and buyers.
 
-Product :
-    image
-    name
-    discount
-    price
-    bgColor
-    panelColor
-    textColor    
+A vender can create products, giving custom value for the UI as well,
+
+A buyers is free to buy any product, add to cart products from the shop. In cart he has option to increase the quantity of individual item.
+
+Site is totally resposive.
